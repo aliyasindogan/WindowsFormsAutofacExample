@@ -5,4 +5,4 @@ C# Windows Forms Autofac Örneği
 
 Faydalı olması dileğiyle.
 
-Allah ccc emanet olun.
+# Allah ccc emanet olun.
