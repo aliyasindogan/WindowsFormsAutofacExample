@@ -9,7 +9,6 @@ namespace WindowsFormsAutofacExample.DependencyResolvers.Autofac
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<MessageBoxMessage>().As<IOutput>();
-            builder.RegisterType<DebugOutput>().As<IOutput>();
             builder.RegisterType<TodayWriter>().As<IDateWriter>();
         }
     }

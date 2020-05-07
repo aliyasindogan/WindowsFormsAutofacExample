@@ -23,6 +23,10 @@ namespace WindowsFormsAutofacExample
             InitializeComponent();
 
             _dateWriter = InstanceFactory.GetInstance<IDateWriter>();
+        }
+
+        private void btnWriteDate_Click(object sender, EventArgs e)
+        {
             _dateWriter.WriteDate();
         }
     }
