@@ -1,5 +1,5 @@
-# Windows Forms Autofac Example
-C# Windows Forms Autofac Örneği
+# Windows Form Autofac Example
+C# Windows Form Autofac Örneği
 
 [Bu linkdeki](https://dotnetfiddle.net/M2REOb) kodlardan faydalanarak bir InstanceFactory oluşturdum.
 
